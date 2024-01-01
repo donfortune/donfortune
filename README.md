@@ -7,6 +7,8 @@
 
 - 🐍 Embracing the power of Python [100 days of python](https://github.com/donfortune/100daysofpython)
 
+- 🚀 Navigating the Kubernetes, Prometheus & Grafana cosmos for 90 days [90 days of kubernetes-infrastructure monitoring](https://github.com/donfortune/90daysofkubernetes-monitoring)
+
 - 🌱 I’m currently learning **Integrating Sonarqube To Improve Pipelines**
 
 - 👯 I’m looking to collaborate on **Devops and Cloud Engineering Projects**
