@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [an Infrastructure Monitoring project with Grafana and Prometheus](https://github.com/donfortune/Monitoring_grafana_prometheus)
 
+- 🐍 Embracing the power of Python [100 days of python](https://github.com/donfortune/100daysofpython)
+
 - 🌱 I’m currently learning **Integrating Sonarqube To Improve Pipelines**
 
 - 👯 I’m looking to collaborate on **Devops and Cloud Engineering Projects**
