@@ -5,17 +5,13 @@
 
 - 🔭 I’m currently working on [an Infrastructure Monitoring project with Grafana and Prometheus](https://github.com/donfortune/Monitoring_grafana_prometheus)
 
-- 🐍 Embracing the power of Python [100 days of python](https://github.com/donfortune/100daysofpython)
-
-- 🚀 Navigating the Kubernetes, Prometheus & Grafana cosmos for 90 days [90 days of kubernetes-infrastructure monitoring](https://github.com/donfortune/90daysofkubernetes-monitoring)
-
 - 🌱 I’m currently learning **Integrating Sonarqube To Improve Pipelines**
 
 - 👯 I’m looking to collaborate on **Devops and Cloud Engineering Projects**
 
 - 📫 How to reach me **donfortunet.df@gmail.com**
 
-- ⚡ My Best Quote is **Never Feel Fear**
+- ⚡ **Never Feel Fear**
 
 <!-- ### Blogs posts  -->
 <!-- BLOG-POST-LIST:START -->
