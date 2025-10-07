@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Don-Fortune👋</h1>
-<h3 align="center">I'm a versatile software developer with a formidable blend of backend and DevOps expertise. Specializing in Django and Django Rest Framework (DRF), I craft highly scalable and efficient APIs. In the DevOps Field, I leverage infrastructure as code (IaC) tools like Terraform and Ansible, alongside monitoring solutions such as Grafana, Prometheus, and Datadog. My projects reflect my proficiency in cloud services (AWS, Azure), containerization (Docker, Kubernetes), and integrating automation into CI/CD pipelines. I am committed to ensuring the entire software development lifecycle (SDLC) is implemented efficiently, I am  always eager to collaborate and push technological boundaries.</h3>
+<h3 align="center">I'm a versatile software developer with a formidable blend of backend and DevOps expertise. Specializing in Nodejs/Express, I craft highly scalable and efficient APIs. In the DevOps Field, I leverage infrastructure as code (IaC) tools like Terraform and Ansible, alongside monitoring solutions such as Grafana, Prometheus, and Datadog. My projects reflect my proficiency in cloud services (AWS, Azure), containerization (Docker, Kubernetes), and integrating automation into CI/CD pipelines. I am committed to ensuring the entire software development lifecycle (SDLC) is implemented efficiently, I am  always eager to collaborate and push technological boundaries.</h3>
 
 <p align="left"> <a href="https://twitter.com/donfortunee" target="blank"><img src="https://img.shields.io/twitter/follow/donfortunee?logo=twitter&style=for-the-badge" alt="donfortunee" /></a> </p>
 
 - 🔭 I’m currently working on [an Infrastructure Monitoring project with Grafana and Prometheus](https://github.com/donfortune/Monitoring_grafana_prometheus)
 
-- 🌱 I’m currently learning **Integrating Sonarqube To Improve Pipelines**
+- 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **Devops and Cloud Engineering Projects**
+- 👯 I’m looking to collaborate on **Backend Projects, Devops and Cloud Engineering Projects**
 
 - 📫 How to reach me **donfortunet.df@gmail.com**
 
