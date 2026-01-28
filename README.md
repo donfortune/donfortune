@@ -1,32 +1,66 @@
-<h1 align="center">Hi 👋, I'm Don-Fortune👋</h1>
-<h3 align="center">I'm a versatile software developer with a formidable blend of backend and DevOps expertise. Specializing in Nodejs/Express, I craft highly scalable and efficient APIs. In the DevOps Field, I leverage infrastructure as code (IaC) tools like Terraform and Ansible, alongside monitoring solutions such as Grafana, Prometheus, and Datadog. My projects reflect my proficiency in cloud services (AWS, Azure), containerization (Docker, Kubernetes), and integrating automation into CI/CD pipelines. I am committed to ensuring the entire software development lifecycle (SDLC) is implemented efficiently, I am  always eager to collaborate and push technological boundaries.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Don-Fortune;Backend+Engineer;DevOps+Specialist;Cloud+Architect" alt="Typing SVG" />
+  
+  <p align="center">
+     <b>Building scalable backends & robust infrastructure in the Cloud.</b>
+  </p>
+  
+  <a href="https://twitter.com/donfortunee" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/donfortunee?logo=twitter&style=for-the-badge&color=00acee&labelColor=000000&label=Follow+Me" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/don-fortune-tangban" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+   <a href="mailto:donfortunet.df@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/donfortunee" target="blank"><img src="https://img.shields.io/twitter/follow/donfortunee?logo=twitter&style=for-the-badge" alt="donfortunee" /></a> </p>
+<br />
 
-- 🔭 I’m currently working on [an Infrastructure Monitoring project with Grafana and Prometheus](https://github.com/donfortune/Monitoring_grafana_prometheus)
+<h3 align="center">🚀 Engineering Reliability</h3>
 
-- 🌱 I’m currently learning **System Design**
-
-- 👯 I’m looking to collaborate on **Backend Projects, Devops and Cloud Engineering Projects**
-
-- 📫 How to reach me **donfortunet.df@gmail.com**
-
-- ⚡ **Never Feel Fear**
-
-<!-- ### Blogs posts  -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@donfortunet.df" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="donfortunet.df" height="30" width="40" /></a>
-<a href="https://twitter.com/donfortunee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donfortunee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/don-fortune-tangban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="don-fortune-tangban" height="30" width="40" /></a>
+<p align="center">
+ I am a software engineer spanning the gap between <b>application code</b> and <b>infrastructure</b>. I specialize in building efficient Node.js APIs and ensuring they run smoothly using IaC, containerization, and observability tools. My goal is simple: <b>Zero downtime, maximum efficiency.</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aybims&show_icons=true&locale=en&layout=compact" alt="donfortune" /></p>
+### 🛠️ What I'm Architecting
+I don't just write code; I build products and pipelines.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donfortune&" alt="donfortune" /></p>
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **🗳️ Baya** | A real-time polling application featuring a **full-stack observability pipeline**. I built this to master the intersection of application logic and system monitoring. | `Node.js` `Socket.io` `Grafana` `Prometheus` |
+| **💸 Gree** | *(Formerly SocialBridge)* An e-commerce escrow service designed to secure social media transactions. Handles complex financial logic and state management. | `Express.js` `PostgreSQL` `Docker` |
+| **📧 AutoMail** | An automations API using Node-cron to schedule and dispatch emails. A study in background jobs and reliable task scheduling. | `Node-cron` `Rest API` `Redis` |
+| **🤖 Unc Wisdoms** | Exploring the AI frontier with an automated content pipeline generating persona-based advice. | `AI/LLMs` `Python` `Automation` |
+
+---
+
+### 💻 Tech Stack & Tools
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) |
+| **Observability** | ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
+| **Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=donfortune&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Don-Fortune's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donfortune&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donfortune&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Never Feel Fear."</i> ⚡
+</div>
